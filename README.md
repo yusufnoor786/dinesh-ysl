@@ -1,6 +1,6 @@
 # Hi, I'm Zabuka Zuzu (yusufnoor786)👋🏾‍👨‍💻
 
-[![yusufnoor786 github stats](https://github-readme-stats.vercel.app/api?username=yusufnoor786&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/yusufnoor786)       
+[![yusufnoor786 github stats](https://github-readme-stats-1-mu.vercel.app/api?username=yusufnoor786&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/yusufnoor786)       
 
 I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community, online & offline. Some technologies I enjoy working with include Ethical Hacking, Java, Python (Tensorflow, APIs + Markup) and Android Developement. My interest in the Android Developement and open -source led me to contribute in more than 5 projects (Based on Android Open Source Project).<img align="right" src="https://github.com/yusufnoor786/yusufnoor786/blob/master/9fc2126eec2c0a3876e3f2097af9b983.gif" alt="Illustration of ready" width=350px height=260px/>
 
